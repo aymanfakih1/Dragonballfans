@@ -46,7 +46,6 @@ nav li a{
 nav a:hover{
     color: aliceblue;
     text-decoration: underline;
-    background-color: darkgoldenrod;
 }
 .welcome{
     display: flex;
