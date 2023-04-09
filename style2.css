@@ -38,7 +38,7 @@ nav ul{
 }
 nav li a{
     font-size: 1.1em;  /*1em = 16px in default */
-    padding: 20px 10px;
+    margin-right: 30px;
     text-decoration: none;
     color:gold;
     text-transform: uppercase;
@@ -46,7 +46,6 @@ nav li a{
 nav a:hover{
     color: aliceblue;
     text-decoration: underline;
-    background-color: darkgoldenrod;
 }
 .welcome{
     display: flex;
