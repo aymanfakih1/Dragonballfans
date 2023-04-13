@@ -1,2 +1,2 @@
 # Dragonballfans
-this page for Dragon Ball Z fanz arround the world
+This page for Dragon Ball Z fanz arround the world
